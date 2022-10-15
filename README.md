@@ -3,10 +3,10 @@ For educational purpose only.
 Pronote Bruteforce is a program wich test every password possible
 of a pronote account.
 
-You can edit the code and submit it to add for example : 
+## You can edit the code and submit it to add for example : 
 
--proxy
--multi threading
+-proxy tab
+-multi threading tab
 -etc...
 
 
